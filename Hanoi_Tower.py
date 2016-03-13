@@ -12,4 +12,4 @@ def move(n,a,b,c):
 A = 'A'
 B = 'B'
 C = 'C'
-move(4,A,B,C)
+move(4,A,B,C)  ## exmaple for hanoi tower
